@@ -1,0 +1,72 @@
+
+header {
+	margin: 50px;
+}
+
+#logo-image {
+	width: 140px;
+}
+
+.display-inline-block {
+	display: inline-block;
+}
+
+.menu li {
+	    color: #626262;
+    text-transform: uppercase;
+    margin-right: 75px;
+}
+
+.menu {
+	width: calc(100% - 144px);
+    text-align: right;
+}
+
+
+.menu li:last-of-type {
+   margin-right: 0px;
+}
+
+#logo-image, .menu {
+	vertical-align: middle;
+}
+
+.menu a {
+	color: inherit;
+	text-decoration: none;
+}
+
+.menu li:hover {
+	opacity: 0.5;
+}
+
+.banner img {
+	width: 100%;
+}
+
+.banner {
+	padding: 0 50px;
+}
+
+footer { background-color:#999999;
+	    text-align: right;
+
+
+}
+footer div {
+	margin-right:1300px ;
+	color: #626262;
+}
+.haha{
+	margin-right:30px;
+	display: inline-block;
+
+	
+}
+article h1 {
+	font-size: x-large;
+}
+
+article {
+	color: #626262;
+}
