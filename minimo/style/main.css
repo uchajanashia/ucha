@@ -48,13 +48,13 @@ header {
 	padding: 0 50px;
 }
 
-footer { background-color:#999999;
+footer { background-color:#F0F0F0;
 	    text-align: right;
 
 
 }
 footer div {
-	margin-right:1300px ;
+	margin-right:1000px ;
 	color: #626262;
 }
 .haha{
@@ -69,4 +69,10 @@ article h1 {
 
 article {
 	color: #626262;
+	margin: 40px 200px
+}
+.title{
+	
+	font-size:smaller;
+	margin:10px 0px
 }
